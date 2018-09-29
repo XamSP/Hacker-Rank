@@ -12,7 +12,7 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
                 orangeHits++;
             }    
         }
-        
+        //yes
         console.log(appleHits);
         console.log(orangeHits);
 }
