@@ -7,4 +7,4 @@ function chunky(arr, size) {
     return fatArrbert;
   }
   
-  chunky([1,2,3,4,5], 2);
+chunky([1,2,3,4,5], 2);
